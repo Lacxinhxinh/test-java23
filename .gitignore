@@ -1,0 +1,4 @@
+# Ignore file tên có  .project ()
+**/.project
+**/.classpath
+**/bin
